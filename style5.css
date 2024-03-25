@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    background-color: rgba(90, 75, 75, 0.54);
+     margin: 1.5% 15% 4%;
+    border-radius: 20px;
+    padding: 8% 10% ;
+}
+
+header, nav{
+    text-align: center;
+ }
+.logo{
+    height: 120px;
+}
+    
+.slogan{
+    font-size: 30px;
+    color: #00dd00;
+}
+
+nav{
+    background-color: #00dd00;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+main{
+    color:white;
+    
+}
+
+.scooter{
+    margin-top: 2.6%;
+}
+
+.monopattino{
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.scooter{
+height: 19px;
+border-radius: 5px;
+}
+
+.carica1{
+    background-color: orange;
+    width: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.carica2{
+    background-color: greenyellow;
+    width: 60%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.carica3{
+    background-color: red;
+    width: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
